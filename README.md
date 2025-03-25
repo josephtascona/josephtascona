@@ -4,7 +4,7 @@ I'm a developer who loves building web apps and games. Currently exploring game 
 
 #### 🔧 Technologies I use:
 - Python, JavaScript
-- React, Node.js, Godot
+- Flask, React, Node.js, Godot
 - Git & GitHub
 
 #### 📫 Let's connect!
